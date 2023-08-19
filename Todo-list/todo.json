@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Go to Gym",
+    "description": "Going to gym is must be done",
+    "due": "Everyday",
+    "completed": false
+  },
+  {
+    "title": "Bake a cake",
+    "description": "For birthday party I need to bake cake",
+    "due": "Today",
+    "completed": false
+  }
+]
