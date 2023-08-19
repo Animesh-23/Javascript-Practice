@@ -1,3 +1,3 @@
 # Javascript-Practice
 
-Learning and practicing javascript concepts
+Javascript Projects
